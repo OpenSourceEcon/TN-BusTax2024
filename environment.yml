@@ -1,0 +1,13 @@
+name: tn-bustax2024-dev
+channels:
+- conda-forge
+dependencies:
+- python>=3.10,<3.12
+- ipython
+- jupyter
+- bokeh>=3.4.0
+- pip
+- pip:
+  - cost-of-capital-calculator
+  - geopandas
+  - openpyxl
