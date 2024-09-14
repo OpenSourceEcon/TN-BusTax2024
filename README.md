@@ -15,7 +15,7 @@ This repository contains a Jupyter Notebook [`TN_BusTax2024.ipynb`](TN_BusTax202
 ## Files and directories in the repository
 This repository contains the following items:
 * [`TN_BusTax2024.ipynb` Jupyter notebook](TN_BusTax2024.ipynb). An executable notebook you can use to replicate all the analyses in the article and creation of output and figures. A corresponding [Google Colab notebook](https://colab.research.google.com/drive/1dDKVTEAm4drvNXgHpm617j-82X4xzxKh?usp=sharing) that can be run on your browser and executed in the cloud is available at the link in this sentence.
-[`environment.yml`](environment.yml). Conda environment file for creating conda environment `tn_bustax2024-dev`.
+* [`environment.yml`](environment.yml). Conda environment file for creating conda environment `tn_bustax2024-dev`.
 * [`/data/` directory](data/). This directory contains the data used in the analyses in the article.
     * [`/data/Main202306.xlsx`](/data/Main202306.xlsx). Data for "Revenue Collections, Tennessee Department of Revenue, June 2023. PDF of report is [here](https://www.tn.gov/content/dam/tn/revenue/documents/pubs/2023/Coll202306.pdf). Data downloaded from [here](https://www.tn.gov/content/dam/tn/revenue/documents/statistics/2023/Main202306.xlsx).
     * [`/data/ReservesBalancesData.xlsx`](/data/ReservesBalancesData.xlsx). Rainy Day Fund and Total Reserves and Balances data for all 50 states and DC, Pew Charitable Trusts, Dec. 7, 2023. (Data downloaded from: https://www.pewtrusts.org/en/research-and-analysis/articles/2022/10/18/-/media/data-visualizations/interactives/2016/fiscal-50/docs/2013/reservesbalancesdata.xlsx?v=20231206)
